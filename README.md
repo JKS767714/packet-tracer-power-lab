@@ -44,6 +44,8 @@ Observe and confirm the updated power state.
 # Included Documentation/sxcreenshots
 
 Power Status.docx
+### Once you open attachement scroll down to view all docs
 Contains detailed, step-by-step instructions with additional guidance for completing the lab.
+
 
 
