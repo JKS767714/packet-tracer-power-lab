@@ -41,7 +41,7 @@ Run the appropriate command(s) to verify power status.
 
 Observe and confirm the updated power state.
 
-# Included Documentation/sxcreenshots
+# Included Documentation/screenshots
 
 Power Status.docx
 ### Once you open attachement scroll down to view all docs
